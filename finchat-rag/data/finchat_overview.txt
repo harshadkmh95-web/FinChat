@@ -1,0 +1,11 @@
+FinChat Overview
+
+FinChat is an AI-powered financial assistant designed to help users analyze company performance, understand financial statements, and generate insights from market data.
+
+Key Features:
+1. Summarizes quarterly and annual reports.
+2. Answers finance-related questions using retrieval-augmented generation.
+3. Provides insights on revenue, profit, risk factors, and cash flow.
+4. Helps users interpret financial metrics such as EPS, EBITDA, ROE, and Net Margin.
+
+FinChat is mainly used by analysts who want quick explanations generated from corporate filings.
